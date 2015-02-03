@@ -13,11 +13,11 @@ complaining, ever.
 
 Yet, this powerful machine is fairly stupid. It speaks only one language and you need to be quite verbose and strict in the way you speak to it, in order to understand you. Not it compute otherwise does.
 
-Wouldn't it be nice if the language you would need to talk to the computer would be very similar to the language you use with other humans? That's what [Yukihiro_Matsumoto][3] (or Matz) thought when he created [Ruby][4]. At Development Bootcamp we will be using Ruby to teach you how to code, because Ruby is a very human-friendly language to write your code in.
+Wouldn't it be nice if the language you would need to talk to the computer would be very similar to the language you use with other humans? That's what [Yukihiro Matsumoto][3] (or Matz) thought when he created [Ruby][4]. At Development Bootcamp we will be using Ruby to teach you how to code, because Ruby is a very human-friendly language to write your code in.
 
 For example, you say hello in Ruby using just this little bit of code:
 
-```
+```ruby
 puts "Hello, world!"
 ```
 
