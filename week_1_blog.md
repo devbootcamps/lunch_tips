@@ -1,8 +1,8 @@
----
-title: TLT: Always test your code!
----
+# Tuesday Lunch Tip: Always test your code!
 
-OK, so we learned this week that we should always test our code. Sorry for breaking the checkout process, but the bug is fixed and new tests are in place to prevent this from happening. So [get your ticket][1] today!
+This is the first installment of a new category on our blog: the tuesday lunch tip. Every tuesday around lunch time we will publish one or more links to learning materials online, so you can fulfil your craving for code. Subscribers to [our newsletter][6] will be first to know when a new post is published, so [subscribe now][6] if you want to be up-to-date. Or follow us on [twitter][7] or [Facebook][8] if you don't like email.
+
+We at Development Bootcamp HQ learned this week again that we should always test our code. Sorry for breaking the checkout process, but the bug is fixed and new tests are in place to prevent this from happening. So [get your ticket][1] today!
 
 Testing code is so important, we've included it in [the first level of our program][2]. But before being able to test your code, you need a basic comprehension of what _writing code_ actually means.
 
@@ -27,7 +27,7 @@ Do you want to know which commands there are to use when talking to the computer
 
 Luckily, I've found some Japanese monks that will teach you all about Ruby. They've written an excellent primer on the Ruby Language. See it as a phrase book for entering the world of Ruby. After reading it, you won't be fluent in Ruby, but you'll sure now how two order a drink!
 
-```
+```ruby
 def can_i_have_a_cup_of?(beverage)
   return "Here's your #{beverage}. Enjoy!"
 end
@@ -35,8 +35,13 @@ end
 can_i_have_a_cup_of? 'tea'
 ```
 
+Good luck and see you next week!
+
 [1]: https://www.developmentbootcamp.nl/tickets
 [2]: https://developmentbootcamp.nl/program/level-1
 [3]: https://en.wikipedia.org/wiki/Yukihiro_Matsumoto
 [4]: https://www.ruby-lang.org/en/
 [5]: https://rubymonk.com/learning/books/1-ruby-primer
+[6]: http://developmentbootcamp.us9.list-manage.com/subscribe?u=f107d6a3948661d72e4628ba1&id=aff9cced90
+[7]: https://twitter.com/devbootcamps
+[8]: https://www.facebook.com/developmentbootcamp
