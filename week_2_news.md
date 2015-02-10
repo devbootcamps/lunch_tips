@@ -14,6 +14,6 @@ Vincent
 Development Bootcamp
 
 [1]: https://developmentbootcamp.nl/blog/tuesday-lunch-tip-1-always-test-your-code
-[2]: https://developmentbootcamp.nl/blog/foo
+[2]: https://developmentbootcamp.nl/blog/tuesday-lunch-tip-2-let-s-get-it-started
 [3]: https://www.developmentbootcamp.nl/tickets
 [4]: https://www.codeschool.com/courses/try-ruby
