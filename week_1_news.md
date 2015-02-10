@@ -20,5 +20,5 @@ Vincent
 Development Bootcamp
 
 [1]: https://www.developmentbootcamp.nl/tickets
-[2]: https://developmentbootcamp.nl/blog/foo
+[2]: https://developmentbootcamp.nl/blog/tuesday-lunch-tip-1-always-test-your-code
 [3]: https://rubymonk.com/learning/books/1-ruby-primer
